@@ -1,0 +1,14 @@
+# data files (often large, avoid pushing to GitHub)
+data/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# env
+.env
+venv/
